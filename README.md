@@ -4,7 +4,9 @@
 
 ### ✨&nbsp; About Me:
 
-I'm QA engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197565.png" width="13"/> <b>Copenhagen (Denmark) 
+I'm QA engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197565.png" width="13"/> <b>Copenhagen (Denmark)
+🌐 I am passionate about the world of software testing.
+📚 I am learning the basics of manual testing.
 
 🔗 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-AlenaPolikina-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alena-polikina-03a52799/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:le.brilliant@gmail.com)
 
