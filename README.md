@@ -76,6 +76,21 @@ I'm QA engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197565
   
 </div>
 
+<h2>Test Artifacts </h2>
+<p> 
+ <ul>
+<li>  <a href="https://github.com/alenchis/web_testing">Webshop testing</a>  </li>
+<li>  <a href="https://github.com/alenchis/API_postman"> REST and SOAP API testing via Postman </a>   </li>
+<li> <a href="https://github.com/alenchis/SQL">MySQL</a>   </li>
+<li>  <a href="https://github.com/alenchis/MongoDB.git">MongoDB</a>  </li>
+<li>  <a href="https://github.com/alenchis/mobile_testing"> Android app testing</a>   </li>
+<li> <a href="https://github.com/alenchis/CharlesProxy">Replacing data with CharlesProxy</a>  </li>
+<li> <a href="https://github.com/alenchis/bash"> Bash </a>  </li>
+<li> <a href="https://github.com/alenchis/git"> Git </a> </li>
+</ul>
+</p>
+
+
 ---
 
 <!-- ### 💻 Пройденные курсы:
